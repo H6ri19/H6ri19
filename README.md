@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h6ri19&label=Profile%20views&color=0e75b6&style=flat" alt="h6ri19" /> </p>
 
-- 🔭 I’m currently working on **Smart City Parking Reservation and Payment System**
+- 🔭 I’m currently working on **E-Commerce Website with AR Product**
+
+- 🔭  I’ve completed the project on **Smart City Parking Reservation and Payment System**
 
 - 🌱 I’m currently learning **Python | DSA | React Native | AI/ML**
 
