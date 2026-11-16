@@ -2,12 +2,6 @@
 <h3 align="center">A passionate Full Stack developer | MERN Stack | web developer | Python(Learning) Programmer | C++ Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://wallpapercat.com/w/full/c/7/e/5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h6ri19&label=Profile%20views&color=0e75b6&style=flat" alt="h6ri19" /> </p>
-
-- 🔭 I’m currently working on **E-Commerce Website with AR Product**
-
-- 🔭  I’ve completed the project on **Smart City Parking Reservation and Payment System**
-
 - 🌱 I’m currently learning **Python | DSA | React Native | AI/ML**
 
 - 💬 Ask me about **C , React , Java , Python , R Programming , MERN Stack , Web development**
